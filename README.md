@@ -4,5 +4,5 @@
   2.1
   2.2 
   2.3 
-  2.4 待补充
+  2.4 待补充 
 3 spring_cloud_docker 是 将Spring 微服务部署到Docker的脚本
